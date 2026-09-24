@@ -1,0 +1,8 @@
+generated: 2026-09-24
+method: probed
+source: https://www.nasdaqprivatemarket.com/wp-json/mcp
+deployment:
+  mode: remote
+  endpoint: https://www.nasdaqprivatemarket.com/wp-json/mcp/mcp
+  auth: unknown
+  verified: probed
